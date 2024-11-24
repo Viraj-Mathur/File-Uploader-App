@@ -3,7 +3,7 @@
 ### A backend Appication made using Nodejs, MongoDB and Expressjs
 
 A Nodejs backend application that allows the user to upload files (images and videos) in Cloud or local server. It uses Express and the Express File Uploader middleware to handle file uploads. Files can are also stored in a cloud-based image and video management service called Cloudinary.
-Apllication also sends an email to the user who uploaded the file, containing a link to the uploaded file.
+Application also sends an email to the user who uploaded the file, containing a link to the uploaded file.
 
 <br>
 
